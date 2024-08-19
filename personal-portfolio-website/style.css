@@ -377,8 +377,8 @@ left: calc(50% - 1px);
 .services-container {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 5.5rem;
-    padding: 3rem 0;
+    gap: 4.5rem;
+    padding: 2.5rem 0;
 }
 
 .service-box {
