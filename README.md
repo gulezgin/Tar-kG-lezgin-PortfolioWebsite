@@ -4,6 +4,8 @@ https://onemanbattalion.netlify.app/
 
 https://tarikgulezgin.netlify.app/
 
+https://tarikbaba.netlify.app/
+
 ![onemanbattalionMYSİTE](https://github.com/user-attachments/assets/88eb5981-2217-4edd-bff6-c3c098cb2071)
 
 
